@@ -4,35 +4,42 @@ namespace HelloWorld
 {
     internal class Program
     {
-
-        public static void Main(string[] args)
+          public static void Main(string[] args)
         {
-            int number1 = 1;
-            bool value = true;
-            if (number1 > 10 || value == true)
+            int a = 5;
+            int b = 7;   
+
+            double result = Divide(a,b);
+            int result1 = Multiply(a,b);
+            int result2 = Plus(a,b);
+            int result3 = Minus(a,b);
+
+            Console.WriteLine(result);
+            
+
+            static double Divide(double num1, double num2)
             {
-                Console.WriteLine("num is bigger");
-            } 
-            else if(number1 ==5)
-            {
-                number1 += 10;
+                return num1/num2;
             }
-            else
+
+            static int Multiply(int num1, int num2)
             {
-                Console.WriteLine("num is not bigger");
+                return num1 * num2;
             }
-            switch(number1)
+
+            static int Plus(int num1, int num2)
             {
-                case 5:
-                    Console.WriteLine("num is a value");
-                    break;
-                case 10:
-                    Console.WriteLine("num is not bigger");
-                    break;
-                default:
-                break;        
+                return num1 + num2;
             }
+
+            static int Minus(int num1, int num2)
+            {
+                return num1 - num2;
+            }
+
+
         }
+    
          
     }
         
