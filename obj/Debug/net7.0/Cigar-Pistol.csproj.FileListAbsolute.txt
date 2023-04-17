@@ -1,0 +1,15 @@
+C:\xampp\htdocs\htmlcase\Cigar-Pistol\bin\Debug\net7.0\Cigar-Pistol.exe
+C:\xampp\htdocs\htmlcase\Cigar-Pistol\bin\Debug\net7.0\Cigar-Pistol.deps.json
+C:\xampp\htdocs\htmlcase\Cigar-Pistol\bin\Debug\net7.0\Cigar-Pistol.runtimeconfig.json
+C:\xampp\htdocs\htmlcase\Cigar-Pistol\bin\Debug\net7.0\Cigar-Pistol.dll
+C:\xampp\htdocs\htmlcase\Cigar-Pistol\bin\Debug\net7.0\Cigar-Pistol.pdb
+C:\xampp\htdocs\htmlcase\Cigar-Pistol\obj\Debug\net7.0\Cigar-Pistol.csproj.AssemblyReference.cache
+C:\xampp\htdocs\htmlcase\Cigar-Pistol\obj\Debug\net7.0\Cigar-Pistol.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\htmlcase\Cigar-Pistol\obj\Debug\net7.0\Cigar-Pistol.AssemblyInfoInputs.cache
+C:\xampp\htdocs\htmlcase\Cigar-Pistol\obj\Debug\net7.0\Cigar-Pistol.AssemblyInfo.cs
+C:\xampp\htdocs\htmlcase\Cigar-Pistol\obj\Debug\net7.0\Cigar-Pistol.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\htmlcase\Cigar-Pistol\obj\Debug\net7.0\Cigar-Pistol.dll
+C:\xampp\htdocs\htmlcase\Cigar-Pistol\obj\Debug\net7.0\refint\Cigar-Pistol.dll
+C:\xampp\htdocs\htmlcase\Cigar-Pistol\obj\Debug\net7.0\Cigar-Pistol.pdb
+C:\xampp\htdocs\htmlcase\Cigar-Pistol\obj\Debug\net7.0\Cigar-Pistol.genruntimeconfig.cache
+C:\xampp\htdocs\htmlcase\Cigar-Pistol\obj\Debug\net7.0\ref\Cigar-Pistol.dll
