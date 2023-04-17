@@ -1,0 +1,15 @@
+C:\xampp\htdocs\htmlcase\CigarsAndGunsHouse\bin\Debug\net7.0\CigarsAndGunsHouse.exe
+C:\xampp\htdocs\htmlcase\CigarsAndGunsHouse\bin\Debug\net7.0\CigarsAndGunsHouse.deps.json
+C:\xampp\htdocs\htmlcase\CigarsAndGunsHouse\bin\Debug\net7.0\CigarsAndGunsHouse.runtimeconfig.json
+C:\xampp\htdocs\htmlcase\CigarsAndGunsHouse\bin\Debug\net7.0\CigarsAndGunsHouse.dll
+C:\xampp\htdocs\htmlcase\CigarsAndGunsHouse\bin\Debug\net7.0\CigarsAndGunsHouse.pdb
+C:\xampp\htdocs\htmlcase\CigarsAndGunsHouse\obj\Debug\net7.0\CigarsAndGunsHouse.csproj.AssemblyReference.cache
+C:\xampp\htdocs\htmlcase\CigarsAndGunsHouse\obj\Debug\net7.0\CigarsAndGunsHouse.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\htmlcase\CigarsAndGunsHouse\obj\Debug\net7.0\CigarsAndGunsHouse.AssemblyInfoInputs.cache
+C:\xampp\htdocs\htmlcase\CigarsAndGunsHouse\obj\Debug\net7.0\CigarsAndGunsHouse.AssemblyInfo.cs
+C:\xampp\htdocs\htmlcase\CigarsAndGunsHouse\obj\Debug\net7.0\CigarsAndGunsHouse.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\htmlcase\CigarsAndGunsHouse\obj\Debug\net7.0\CigarsAndGunsHouse.dll
+C:\xampp\htdocs\htmlcase\CigarsAndGunsHouse\obj\Debug\net7.0\refint\CigarsAndGunsHouse.dll
+C:\xampp\htdocs\htmlcase\CigarsAndGunsHouse\obj\Debug\net7.0\CigarsAndGunsHouse.pdb
+C:\xampp\htdocs\htmlcase\CigarsAndGunsHouse\obj\Debug\net7.0\CigarsAndGunsHouse.genruntimeconfig.cache
+C:\xampp\htdocs\htmlcase\CigarsAndGunsHouse\obj\Debug\net7.0\ref\CigarsAndGunsHouse.dll

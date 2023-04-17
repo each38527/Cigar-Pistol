@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v7.0": {
-      "Cigar-Pistol/1.0.0": {
+      "CigarsAndGunsHouse/1.0.0": {
         "runtime": {
-          "Cigar-Pistol.dll": {}
+          "CigarsAndGunsHouse.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Cigar-Pistol/1.0.0": {
+    "CigarsAndGunsHouse/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\xampp\\htdocs\\htmlcase\\Cigar-Pistol\\Cigar-Pistol.csproj",
-      "projectName": "Cigar-Pistol",
-      "projectPath": "C:\\xampp\\htdocs\\htmlcase\\Cigar-Pistol\\Cigar-Pistol.csproj",
+      "projectUniqueName": "C:\\xampp\\htdocs\\htmlcase\\CigarsAndGunsHouse\\CigarsAndGunsHouse.csproj",
+      "projectName": "CigarsAndGunsHouse",
+      "projectPath": "C:\\xampp\\htdocs\\htmlcase\\CigarsAndGunsHouse\\CigarsAndGunsHouse.csproj",
       "packagesPath": "C:\\Users\\emila\\.nuget\\packages\\",
-      "outputPath": "C:\\xampp\\htdocs\\htmlcase\\Cigar-Pistol\\obj\\",
+      "outputPath": "C:\\xampp\\htdocs\\htmlcase\\CigarsAndGunsHouse\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\emila\\AppData\\Roaming\\NuGet\\NuGet.Config"

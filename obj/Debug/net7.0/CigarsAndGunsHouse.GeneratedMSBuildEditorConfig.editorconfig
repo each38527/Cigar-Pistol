@@ -7,5 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = Cigar_Pistol
-build_property.ProjectDir = c:\xampp\htdocs\htmlcase\CigarsAndGunsHouse\
+build_property.RootNamespace = CigarsAndGunsHouse
+build_property.ProjectDir = C:\xampp\htdocs\htmlcase\CigarsAndGunsHouse\
